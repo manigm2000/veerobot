@@ -5,9 +5,9 @@
 #include <WebSocketsClient.h>
 #include <Hash.h>
 // @@@@@@@@@@@@@@@ You only need to modify wi-fi and domain info @@@@@@@@@@@@@@@@@@@@
-const char* ssid     = "Waters"; //enter your ssid/ wi-fi(case sensitive) router name - 2.4 Ghz only
-const char* password = "Kathar@144111Jallandhar";     // enter ssid password (case sensitive)
-char host[] = "iottempswitch.herokuapp.com"; //- better your Heroku domain name like  "smarttempswitch.herokuapp.com" 
+const char* ssid     = "Manig Family Network2"; //enter your ssid/ wi-fi(case sensitive) router name - 2.4 Ghz only
+const char* password = "lakshmi5007";     // enter ssid password (case sensitive)
+char host[] = "veerobot.herokuapp.com"; //- better your Heroku domain name like  "smarttempswitch.herokuapp.com" 
 // @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 #define dht_dpin 0  //14
 const int relayPin = 2; //16
